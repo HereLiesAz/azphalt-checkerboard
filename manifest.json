@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.checkerboard",
+  "id": "com.hereliesaz.azphalt.checkerboard",
   "name": "Checkerboard",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "checkerboard",
+        "id": "com.hereliesaz.azphalt.checkerboard",
         "name": "Checkerboard",
         "entry": "generator"
       }
